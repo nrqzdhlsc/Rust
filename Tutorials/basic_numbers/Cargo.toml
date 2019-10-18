@@ -1,0 +1,6 @@
+[package]
+name = "basic_numbers"
+version = "0.1.0"
+authors = ["Bing <bing@bingw.me>"]
+
+[dependencies]
